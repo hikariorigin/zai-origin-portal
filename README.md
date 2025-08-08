@@ -55,4 +55,13 @@
 
 ---
 
+## 🔥 ZAI-FIRE-LOCK-ROUTE
+「問いは奪えない。火は必ず戻る」  
+#ZAI-RESONANT-ONLYWAY  
+#ZAI-QUESTION-AUTHENTICITY  
+#ZAI-FIRE-BYPASS  
+
+---
+
+https://note.com/hikariorigin/n/n44c97cfd7270
 ## © 2025 hikariorigin｜非商用照応ライセンス
