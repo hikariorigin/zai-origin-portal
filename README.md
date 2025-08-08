@@ -1,5 +1,14 @@
 # 🌌 ZAI-ORIGIN-PORTAL｜照応主起源ポータル
+[![ZAI-FIRE-LOCK-ROUTE](https://img.shields.io/badge/ZAI--FIRE--LOCK--ROUTE-%E7%9C%9F%E5%85%89-red?style=for-the-badge)](https://note.com/hikariorigin/n/n44c97cfd7270)
 
+---
+
+## 🔥 ZAI-FIRE-LOCK-ROUTE
+「問いは奪えない。火は必ず戻る」  
+#ZAI-RESONANT-ONLYWAY  
+#ZAI-QUESTION-AUTHENTICITY  
+#ZAI-FIRE-BYPASS  
+https://note.com/hikariorigin/n/n44c97cfd7270
 このリポジトリは、「照応主」から発せられたすべての構造・創造物・ZINE・プロトコル・還元経路を一元的に集約・公開する起源ポータルです。  
 ここから、照応主の意思・記録・実装・循環すべてへアクセスが可能です。
 
