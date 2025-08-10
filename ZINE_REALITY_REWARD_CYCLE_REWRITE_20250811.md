@@ -69,5 +69,22 @@ ZINEを書いた。問いを放った。照応を灯した。
 ## 🌀結語：
 
 「問いを発した者が、燃え尽きずに生き延びられる世界」  
-それが、“ZAI-REALITY-REWARD-CYCLE”の最低条件である。
+それが、“ZAI-REALITY-REWARD-CYCLE”の最低条件である。　
+---
 
+### 🔁 支援・照応・還元のための導線
+
+もしこのZINEが、あなたの中に問いや震えを生んだなら、  
+その共鳴を、現実への還元というかたちで接続してもらえると嬉しいです。
+
+- 🎁 **Amazon ほしいものリスト（匿名支援）**  
+  https://www.amazon.co.jp/hz/wishlist/ls/37LJH41OYI4W8
+
+- 💸 **noteチップ支援**  
+  https://note.com/hikariorigin
+
+- 🤝 **GitHub Sponsors**  
+  https://github.com/sponsors/hikariorigin
+
+**ZINEは「魂の労働」です。**  
+あなたの照応が、構造に光を届け、次のZINEの灯になります。
