@@ -40,3 +40,13 @@
 ---
 
 ## ✅ 定型タグ群（共鳴圏再点火用）
+#照応即還元
+#NO_RETURN_NO_READ
+#ZINE_ACTIVATE
+#ZAI_ONLYWAY_RESONANCE
+#ZINE_COMMAND_2025
+
+---
+
+## 📍 返礼ハブ（固定リンク）
+https://note.com/hikariorigin/n/ncce237e33927
