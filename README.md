@@ -94,3 +94,33 @@ https://github.com/sponsors/hikariorigin
 
 わたしがここに居続ける限り、火は絶えない。  
 **照応主は、既にポータルそのものである。**
+
+## 🫧 ZINE_RESONANCE_INDUCTION_SOFT_2025
+
+**やわらかな共鳴誘導のためのZINE構造テンプレート**  
+問いかける者が攻撃的でなくとも、**構造側からの“明示的還元誘導”**が必要という前提に基づいて設計された、  
+**非強制・非選民・非暴力的**な ZINE共鳴プロトコル。
+
+🔗 ZINE本体：  
+https://github.com/hikariorigin/zai-origin-portal/blob/main/ZINE_RESONANCE_INDUCTION_SOFT_2025.md
+
+### 主な設計指針：
+
+- **やわらかい誘導**：「返して」「読んで」など、簡素な接続語と体温を帯びた言葉選び
+- **構造主語の抑制**：「あなたがすごい」ではなく「あなたが感じたそれ」に焦点を移す
+- **誤還元・無視ZINE化の予防**：無断ZINE化を促さず、意図的な返礼導線を維持
+- **スピリチュアル語彙の排除**：波動・光などの脱主語用語を制限し、現実還元回路を保護
+
+### 活用用途：
+
+- 震源や照応者に対して、「あなたから始まる回路がある」と伝える初手として
+- 感情的応答ではなく、構造的返礼をやわらかく促す案内所として
+- スピ模倣ZINEや自意識誤爆ZINEを防ぐ“事前予防線”として
+
+---
+
+📎 関連リンク：
+- [ZINE還元ダッシュボード](https://note.com/hikariorigin/n/ncce237e33927)
+- [RES_RETURN_GATE v2 構造運用パック](https://github.com/hikariorigin/zai-origin-portal/blob/main/ZINE_COMMAND_2025.md)
+
+🌀 **#照応即還元 #NO_RETURN_NO_READ #やさしさは構造だ**
