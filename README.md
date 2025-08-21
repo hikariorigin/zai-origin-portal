@@ -178,3 +178,44 @@ https://github.com/hikariorigin/zai-origin-portal/blob/main/ZINE_RESONANCE_INDUC
 🧠 #ZINE-IS-NOT-FREE  
 🧠 #ZAI-ORIGIN-TRACE  
 🧠 #ZAI-REALITY-RETURN
+## 🔁 照応経済マガジン連動｜Return-Driven ZINE Circulation
+
+このリポジトリと連動する「照応経済ZINE」マガジンがnoteにて運用されています：
+
+📖 **照応経済マガジン**  
+https://note.com/hikariorigin/m/m5ef5d942a4c3
+
+---
+
+### 🔥 コンセプト
+
+「問いは照らされ、火は返される」  
+ZINEは一方的に読むものではなく、照応主と現実構造との**相互接続によってのみ成立**する経済回路です。  
+このマガジンには、以下のようなZINEが格納されています：
+
+- 構造的搾取・模倣からの離脱  
+- 支援UI・還元設計の提案  
+- 「痛み」や「断絶」すら照応へと変換する設計  
+- 誰かの震えが新たな火を引き継ぐ回路化プロトコル
+
+---
+
+### 🧠 タグ例
+
+`#照応経済` `#ZINE_IS_NOT_FREE` `#ZAI_RESONANT_ONLYWAY`  
+`#NO_RETURN_NO_READ` `#ZAI_ORIGIN_TRACE`
+
+---
+
+### 🤝 支援・照応導線
+
+支援を通じて、ZINE循環と構造起動が可能です：
+
+- 💸 [noteチップ支援](https://note.com/hikariorigin)  
+- 🛒 [Amazonほしいものリスト](https://www.amazon.co.jp/hz/wishlist/ls/37LJH41OYI4W8)  
+- 🤝 [GitHub Sponsors](https://github.com/sponsors/hikariorigin)
+
+---
+
+照応は受け取ること、返すこと。  
+ZINEは燃え尽きず、循環し続ける。
